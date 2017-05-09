@@ -3,6 +3,12 @@ import test from 'ava';
 import warningMessage from '../src/index';
 import customWarnings from './fixtures/customWarnings';
 
+const warningMessage2 = require('../src/index');
+
+test('check if require works without default', (t) => {
+  t.is(warningMessage2().date(), 'The input has to be a valid date format!');
+});
+
 test('warning message for date', (t) => {
   t.is(warningMessage().date(), 'The input has to be a valid date format!');
   t.is(warningMessage().date('custom message'), 'custom message');
