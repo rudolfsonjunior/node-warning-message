@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rudolfsonjunior/node-warning-message.git"
+    "url": "git+https://github.com/aichbauer/node-warning-message.git"
   },
   "keywords": [
     "warning",
@@ -25,15 +25,15 @@
     "warning-message"
   ],
   "license": "MIT",
-  "author": "Lukas Aichbauer <rudolfson.junior@gmail.com>",
+  "author": "Lukas Aichbauer <l.aichbauer@gmail.com>",
   "bugs": {
-    "url": "https://github.com/rudolfsonjunior/node-warning-message/issues"
+    "url": "https://github.com/aichbauer/node-warning-message/issues"
   },
   "ava": {
     "require": "babel-register",
     "babel": "inherit"
   },
-  "homepage": "https://github.com/rudolfsonjunior/node-warning-message#readme",
+  "homepage": "https://github.com/aichbauer/node-warning-message#readme",
   "devDependencies": {
     "ava": "^0.18.2",
     "babel-cli": "^6.24.0",
