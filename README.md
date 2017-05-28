@@ -1,7 +1,7 @@
 # warning-message
 
-[![Build Status](https://travis-ci.org/rudolfsonjunior/node-warning-message.svg?branch=master)](https://travis-ci.org/rudolfsonjunior/node-warning-message)
-[![Coverage Status](https://coveralls.io/repos/github/rudolfsonjunior/node-warning-message/badge.svg?branch=master)](https://coveralls.io/github/rudolfsonjunior/node-warning-message?branch=master)
+[![Build Status](https://travis-ci.org/aichbauer/node-warning-message.svg?branch=master)](https://travis-ci.org/aichbauer/node-warning-message)
+[![Coverage Status](https://coveralls.io/repos/github/aichbauer/node-warning-message/badge.svg?branch=master)](https://coveralls.io/github/aichbauer/node-warning-message?branch=master)
 
 > A declarative way to return warning messages
 
